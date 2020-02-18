@@ -14,8 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +34,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  background: rgb(0, 146, 228);
+  color: white;
+  width: 175px;
+  height: 75px;
+  border-radius: 10px;
+  border: 1px solid blue;
+  top: 300px;
+  right: 700px;
+  position: absolute;
+  transform: scale(0.8);
+  font-size: x-large;
+  font-weight: bolder;
+  outline: none;
+  box-shadow: 0px 5px 0px rgb(0, 146, 228);
+}
+
+button:active {
+}
+
+button:active {
+  box-shadow: 0 3px 0 rgb(13, 65, 143);
+  top: 303px;
+  height: 73px;
 }
