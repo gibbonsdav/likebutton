@@ -51,6 +51,7 @@ button {
   font-weight: bolder;
   outline: none;
   box-shadow: 0px 5px 0px rgb(0, 146, 228);
+  cursor: pointer;
 }
 
 button:active {
