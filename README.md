@@ -32,25 +32,25 @@
     <img src="linuxlogo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Learn Basic Linux Terminal</h3>
+  <h3 align="center">A simple likebutton in React</h3>
 
   <p align="center">
-    This will be your guide to learning the basic commands used in the shell of Linux.
+    This was my very first project built in React!
     <br />
-    <a href="https://www.linux.com/what-is-linux/"><strong>Learn more about Linux »</strong></a>
+    <a href="https://reactjs.org/"><strong>Learn more about React »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/imabp/LearnBasicLinuxTerminal">View Demo</a>
+    <!-- <a href="https://github.com/imabp/LearnBasicLinuxTerminal">View Demo</a> -->
     ·
-    <a href="https://github.com/imabp/LearnBasicLinuxTerminal/issues">Report Bug</a>
+    <a href="https://github.com/gibbonsdav/likebutton/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imabp/LearnBasicLinuxTerminal/issues">Request Feature</a>
+    <a href="https://github.com/gibbonsdav/likebutton/issues">Request Feature</a>
   </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
@@ -66,9 +66,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-[![Learn Basic Linux in the Terminal Working Demonstration][product-screenshot]](https://example.com)
+## About The Project -->
 
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -78,7 +76,7 @@
 
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
-- [Jquery](https://jquery.com/)
+<!-- - [Jquery](https://jquery.com/) -->
 
 <!-- GETTING STARTED -->
 
@@ -120,9 +118,9 @@ _For more examples, please refer to the [Working Demo](https://example.com)_
 
 <!-- ROADMAP -->
 
-## Roadmap
+<!-- ## Roadmap
 
-See the [open issues](https://github.com/imabp/LearnBasicLinuxTerminal/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/imabp/LearnBasicLinuxTerminal/issues) for a list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
 
@@ -140,9 +138,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/imabp/LearnBasicLinuxTerminal](https://github.com/imabp/LearnBasicLinuxTerminal)
+Your Name - [David Gibbons](https://www.linkedin.com/in/david-gibbons-lv/) - email
 
 <!-- ACKNOWLEDGEMENTS -->
 
