@@ -23,14 +23,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/imabp/LearnBasicLinuxTerminal">
-    <img src="linuxlogo.png" alt="Logo" width="80" height="80">
+    <img src="linuxlogo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Learn Basic Linux Terminal</h3>
@@ -38,14 +37,14 @@
   <p align="center">
     This will be your guide to learning the basic commands used in the shell of Linux.
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://www.linux.com/what-is-linux/"><strong>Learn more about Linux »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/imabp/LearnBasicLinuxTerminal">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/imabp/LearnBasicLinuxTerminal/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/imabp/LearnBasicLinuxTerminal/issues">Request Feature</a>
   </p>
 </p>
 
@@ -77,9 +76,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [React]()
+- [Node]()
+- [Jquery]()
 
 <!-- GETTING STARTED -->
 
@@ -162,9 +161,9 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
 [contributors-url]: https://github.com/imabp/LearnBasicLinuxTerminal/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
 [forks-url]: https://github.com/imabp/LearnBasicLinuxTerminal/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/imabp/LearnBasicLinuxTerminal/stargazers
