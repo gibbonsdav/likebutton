@@ -116,7 +116,7 @@ npm install
 
 The primary goal of this project is to help you learn basic Linux commands in the terminal.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Working Demo](https://example.com)_
 
 <!-- ROADMAP -->
 
