@@ -68,17 +68,17 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Learn Basic Linux in the Terminal Working Demonstration][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+`github_username`, `repo`, `twitter_handle`, `email` -->
 
 ### Built With
 
-- [React]()
-- [Node]()
-- [Jquery]()
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
+- [Jquery](https://jquery.com/)
 
 <!-- GETTING STARTED -->
 
@@ -114,7 +114,7 @@ npm install
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The primary goal of this project is to help you learn basic Linux commands in the terminal.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -122,7 +122,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/imabp/LearnBasicLinuxTerminal/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -136,19 +136,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/imabp/LearnBasicLinuxTerminal](https://github.com/imabp/LearnBasicLinuxTerminal)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -165,7 +159,7 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 [contributors-url]: https://github.com/imabp/LearnBasicLinuxTerminal/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
 [forks-url]: https://github.com/imabp/LearnBasicLinuxTerminal/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
 [stars-url]: https://github.com/imabp/LearnBasicLinuxTerminal/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/imabp/LearnBasicLinuxTerminal/issues
