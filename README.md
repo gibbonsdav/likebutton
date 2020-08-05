@@ -68,7 +68,7 @@
 
 ## About The Project -->
 
-#This was my first project in React. So, although it is a basic one, it was a good experience and I learned a lot. Now on to bigger and better things!
+This was my first project in React. So, although it is a basic one, it was a good experience and I learned a lot. Now on to bigger and better things!
 
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
