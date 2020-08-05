@@ -151,14 +151,14 @@ Your Name - [David Gibbons](https://www.linkedin.com/in/david-gibbons-lv/) - ema
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
-[contributors-url]: https://github.com/imabp/LearnBasicLinuxTerminal/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
-[forks-url]: https://github.com/imabp/LearnBasicLinuxTerminal/network/members
-[stars-shield]: https://img.shields.io/github/stars/imabp/LearnBasicLinuxTerminal.svg?style=flat-square
-[stars-url]: https://github.com/imabp/LearnBasicLinuxTerminal/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/imabp/LearnBasicLinuxTerminal/issues
+[contributors-shield]: https://img.shields.io/github/contributors/gibbonsdav/likebutton.svg?style=flat-square
+[contributors-url]: https://github.com/gibbonsdav/likebutton/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gibbonsdav/likebutton.svg?style=flat-square
+[forks-url]: https://github.com/gibbonsdav/likebutton/network/members
+[stars-shield]: https://img.shields.io/github/stars/gibbonsdav/likebutton.svg?style=flat-square
+[stars-url]: https://github.com/gibbonsdav/likebutton/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gibbonsdav/likebutton.svg?style=flat-square
+[issues-url]: https://github.com/gibbonsdav/likebutton/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/
+[linkedin-url]: https://linkedin.com/david-gibbons-lv/
 [product-screenshot]: images/screenshot.png
