@@ -68,6 +68,8 @@
 
 ## About The Project -->
 
+#This was my first project in React. So, although it is a basic one, it was a good experience and I learned a lot. Now on to bigger and better things!
+
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email` -->
@@ -160,5 +162,5 @@ Your Name - [David Gibbons](https://www.linkedin.com/in/david-gibbons-lv/) - ema
 [issues-shield]: https://img.shields.io/github/issues/gibbonsdav/likebutton.svg?style=flat-square
 [issues-url]: https://github.com/gibbonsdav/likebutton/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/david-gibbons-lv/
+[linkedin-url]: https://linkedin.com/in/david-gibbons-lv/
 [product-screenshot]: images/screenshot.png
